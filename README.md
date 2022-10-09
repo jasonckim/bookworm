@@ -2,7 +2,7 @@
 
 ## Personal Note:
 
-Welcome to Bookworm! First and foremost: thank you for taking the time to review this app and for your consideration for this role.\
+Welcome to Bookworm! First and foremost: thank you for taking the time to review this app and for your consideration for this role.
 
 **If you run into any issues, or have any questions, please do not hesitate to contact me.**
 
