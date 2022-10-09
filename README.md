@@ -2,9 +2,11 @@
 
 ## Tech Stack
 
-**React.JS
+***React.JS
 
-NPM Packages used: Axios and React-boostrap.
+NPM Packages used:\
+-`Axios`\
+-`React-boostrap`
 
 
 ## Functionality 
