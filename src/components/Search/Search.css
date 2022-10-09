@@ -1,0 +1,15 @@
+
+.search-input{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.search-submit{
+display: inline;
+}
+
+.form-submit{
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
