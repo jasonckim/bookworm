@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-***React.JS
+**React.JS**
 
 NPM Packages used:\
 -`Axios`\
