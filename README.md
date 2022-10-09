@@ -24,5 +24,6 @@ This app returns a list of 10 books based on the search term you input. Info ret
 -`Published Date`\
 -`Description (Toggle: On/Off)`
 
-In addition, you can sort the books by publish date, from `Oldest` to `Newest`. 
+In addition, you can sort the books by publish date, from `Oldest` to `Newest`.\
 
+Happy searching!
