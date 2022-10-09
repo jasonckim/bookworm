@@ -8,7 +8,7 @@ const App = () =>{
 
   return (
     <div className="App">
-      <h1>bookworm</h1>
+      <h1>Bookworm</h1>
       <Search/>
     </div>
   );
